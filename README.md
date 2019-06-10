@@ -8,6 +8,8 @@ task specific utilities functions for pyspark use cases.
 
 
 1. very fast connected component finder in spark/pyspark
+   
+   -> Utility to find connected compenets in pyspark from the rdd of edges.
   
    Notebook: very_fast_connected_component_finder.ipynb
     
